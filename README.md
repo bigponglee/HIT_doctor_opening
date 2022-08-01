@@ -8,3 +8,4 @@
 ## 使用方法
 * 下载覆盖texlive的hithesis文件夹即可
 * 在tmp.tex基础上修改即可
+* 其余编译等参考[hithesis](https://github.com/hithesis/hithesis)
